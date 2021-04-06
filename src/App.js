@@ -12,7 +12,6 @@ function App() {
         <Route exact path="/"><Photos/></Route>
         <Route path="/cart"><Cart/></Route>
       </Switch>
-      <h1>Home Page</h1>
     </div>
   );
 }
